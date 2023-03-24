@@ -1,21 +1,17 @@
-```yml
-  - Teacher Id
-    ___t_001
-        -s_001
-        -s_002
-        .
-        .
-        .
-        .
-    ___t_002
-```
-
-  - Teacher Id
-    ___t_001
-        -s_001
-        -s_002
-        .
-        .
-        .
-        .
-    ___t_002
+├── src
+│   ├── controller
+│   │   ├── **/*.css
+│   ├── views
+│   ├── model
+│   ├── index.js
+├── public
+│   ├── css
+│   │   ├── **/*.css
+│   ├── images
+│   ├── js
+│   ├── index.html
+├── dist (or build
+├── node_modules
+├── package.json
+├── package-lock.json 
+└── .gitignore
